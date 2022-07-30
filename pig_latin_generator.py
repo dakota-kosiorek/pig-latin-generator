@@ -28,7 +28,6 @@ for word in text_split:
         
         if includes_period is True:
             new_word += ". "
-            pass
             
     translated_text += new_word
     includes_period = False

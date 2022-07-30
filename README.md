@@ -1,2 +1,2 @@
 # pig-latin-generator
- Transforms normal english text into pig latin.
+ Translates normal english text into pig latin.
